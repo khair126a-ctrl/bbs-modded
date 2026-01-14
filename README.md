@@ -6,4 +6,4 @@ This repository is the source code of BBS mod. The `1.20.4` code is in the `mast
 
 If you'd like to contribute to BBS mod code-wise, I'm not looking for contributions. **Please fork the repository, and make your own version**.
 
-See `LICENSE.md` for information about the license.
+See `MIT LICENSE` for information about the license.
